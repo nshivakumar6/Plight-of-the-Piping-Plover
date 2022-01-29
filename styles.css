@@ -4,16 +4,22 @@ body{
     
 }
 h1{
-<<<<<<< Updated upstream
     color:green;
     font-size:60px;
-=======
     color:navy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+    
+}
+h1{
+    color:rgb(198, 238, 198);
     font-size:50px;
 }
 
 .welcome-item{
     color: navy;
+    color: rgb(199, 240, 199);
     font-size:30px;
     font-weight:bold;
     
@@ -29,9 +35,46 @@ h2{
 h3{
     color:navy;
     font-size:20px;
->>>>>>> Stashed changes
+}
+    color:rgb(198, 245, 198);
+    font-size:20px;
+   
+}
+h3{
+    color:rgb(201, 233, 201);
+    font-size:20px;
 }
 
+
+#main-bird{
+    width:200px;
+    border-radius: 50%;
+    align-self: left;
+    box-shadow:0px 0px 20px #f7faf6;
+}
+
+    
+    
+
+#choices{
+    display:flex;
+    justify-content:center;
+
+}
+.choice{
+    margin:8px;
+    padding:8px 15px;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+    background-color:#f8f9fa;
+    border:1px solid #4b4b4b;
+    border-radius:4px;
+
+}
+.choice:hover{
+    box-shadow:0px 0px 20px #f7faf6;
+}
     
 
 
