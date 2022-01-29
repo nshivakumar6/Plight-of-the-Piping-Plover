@@ -8,6 +8,17 @@ h1{
     font-size:60px;
 }
 
+.welcome-item{
+    color:green;
+    font-size:30px;
+    font-weight:bold;
+}
+h2{
+    color:green;
+    font-size:30px;
+    border-style: solid;
+}
+
     
 
 
