@@ -4,7 +4,7 @@ body{
     
 }
 h1{
-    color:green;
+    color:navy;
     font-size:60px;
     color:navy;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -13,13 +13,13 @@ h1{
     
 }
 h1{
-    color:rgb(198, 238, 198);
+    color:navy;
     font-size:50px;
 }
 
 .welcome-item{
     color: navy;
-    color: rgb(199, 240, 199);
+    color: navy;
     font-size:30px;
     font-weight:bold;
     
