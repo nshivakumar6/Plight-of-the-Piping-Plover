@@ -5,30 +5,30 @@ body{
     
 }
 h1{
-    color:navy;
+    color:red;
     font-size:50px;
 }
 
 .welcome-item{
-    color: navy;
-    color: navy;
+    color:white;
+    color: white;
     font-size:30px;
     
 }
 
 
 h2{
-    color:navy;
+    color:white;
     font-size:25px;
    
 }
 
 h3{
-    color:navy;
+    color:white;
     font-size:20px;
 }
 h4{
-    color:navy;
+    color:white;
     font-size:20px;
 }
 
