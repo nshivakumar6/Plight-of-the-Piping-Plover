@@ -12,6 +12,7 @@ h1{
 }
 
 .welcome-item{
+    color: navy;
     color: rgb(199, 240, 199);
     font-size:30px;
     
@@ -19,6 +20,15 @@ h1{
 
 
 h2{
+    color:navy;
+    font-size:25px;
+   
+}
+
+h3{
+    color:navy;
+    font-size:20px;
+}
     color:rgb(198, 245, 198);
     font-size:20px;
    
