@@ -1,4 +1,12 @@
 body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+h1{
+    color:green;
+    font-size:60px;
+    color:navy;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     
@@ -10,6 +18,7 @@ h1{
 }
 
 .welcome-item{
+    color: navy;
     color: rgb(199, 240, 199);
     font-size:30px;
     font-weight:bold;
@@ -18,6 +27,15 @@ h1{
 
 
 h2{
+    color:navy;
+    font-size:25px;
+   
+}
+
+h3{
+    color:navy;
+    font-size:20px;
+}
     color:rgb(198, 245, 198);
     font-size:20px;
    
