@@ -1,32 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Poppins&family=Raleway:wght@100&family=Roboto+Mono:wght@183;200;400&display=swap');
+
 body{
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
-    
+    letter-spacing: 1px;
     
 }
 h1{
-    color:rgb(198, 238, 198);
+    color:navy;
     font-size:50px;
 }
 
 .welcome-item{
-    color: rgb(199, 240, 199);
+    color: navy;
+    color: navy;
     font-size:30px;
-    font-weight:bold;
     
 }
 
 
 h2{
-    color:rgb(198, 245, 198);
-    font-size:20px;
+    color:navy;
+    font-size:25px;
    
 }
+
 h3{
-    color:rgb(201, 233, 201);
+    color:navy;
     font-size:20px;
 }
-
+h4{
+    color:navy;
+    font-size:20px;
+}
 
 #main-bird{
     width:200px;
@@ -34,9 +40,6 @@ h3{
     align-self: left;
     box-shadow:0px 0px 20px #f7faf6;
 }
-
-    
-    
 
 #choices{
     display:flex;
@@ -57,7 +60,3 @@ h3{
 .choice:hover{
     box-shadow:0px 0px 20px #f7faf6;
 }
-    
-
-
-
