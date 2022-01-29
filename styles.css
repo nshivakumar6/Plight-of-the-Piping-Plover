@@ -1,20 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Poppins&family=Raleway:wght@100&family=Roboto+Mono:wght@183;200;400&display=swap');
-
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    letter-spacing: 1px;
+    
+}
+h1{
+    color:green;
+    font-size:60px;
+    color:navy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
     
 }
 h1{
     color:rgb(198, 238, 198);
-    font-size:40px;
+    font-size:50px;
 }
 
 .welcome-item{
     color: navy;
     color: rgb(199, 240, 199);
     font-size:30px;
+    font-weight:bold;
     
 }
 
@@ -46,6 +53,9 @@ h3{
     box-shadow:0px 0px 20px #f7faf6;
 }
 
+    
+    
+
 #choices{
     display:flex;
     justify-content:center;
@@ -65,3 +75,7 @@ h3{
 .choice:hover{
     box-shadow:0px 0px 20px #f7faf6;
 }
+    
+
+
+
