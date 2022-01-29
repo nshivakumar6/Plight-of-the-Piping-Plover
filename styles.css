@@ -1,18 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Poppins&family=Raleway:wght@100&family=Roboto+Mono:wght@183;200;400&display=swap');
+
 body{
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
-    
+    letter-spacing: 1px;
     
 }
 h1{
     color:rgb(198, 238, 198);
-    font-size:50px;
+    font-size:40px;
 }
 
 .welcome-item{
     color: rgb(199, 240, 199);
     font-size:30px;
-    font-weight:bold;
     
 }
 
@@ -33,7 +34,7 @@ h3{
     border-radius: 50%;
     align-self: left;
     box-shadow:0px 0px 20px #f7faf6;
-}   
+}
 
 #choices{
     display:flex;
@@ -54,7 +55,3 @@ h3{
 .choice:hover{
     box-shadow:0px 0px 20px #f7faf6;
 }
-    
-
-
-
