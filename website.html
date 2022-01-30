@@ -4,14 +4,23 @@
 <!DocTYPE html>
 
 <html>
-    <script src="js/libs/mediaelement.min.js"></script>
     <head>
         <title>
             CoolProject
         </title>
+        <link href="https://fonts.googleapis.com/css2?family=Comforter&display=swap" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="styles.css">
     </head>
     <body  background="media/images/_MG_9474.jpg">
+
+        <audio hidden controls autoplay id="bgAudio">
+            <source src="media/audio/ocean-wave-2.wav" type="audio/mpeg">
+          </audio>
+          
+          <script>
+            var audio = document.getElementById("bgAudio");
+            audio.volume = 0.2;
+          </script>
 
         <ul>
             <li><a href="#Home">Home</a></li>
@@ -20,9 +29,18 @@
         </ul>
 
         <h1>The Piping Plover Migration</h1>
-        <div id = "main-bird">
-            <input type="image" class="main-bird" src="media/images/301220171-480px.jpg">
-        </div>
+
+        <body>
+            <script>
+                function play(){
+                    var audio = document. getElementById("audio")
+                    audio.play();
+                }
+            </script>
+             <img src="media/images/301220171-480px.jpg" class="main-bird" value="PLAY" onclick="play()">
+             <audio id="audio" src="media/audio/shortplover.mp3"></audio>
+         </body>
+         
         <div id="welcome">
             <a class="welcome-item">
         <h2>Instructions:<br>
