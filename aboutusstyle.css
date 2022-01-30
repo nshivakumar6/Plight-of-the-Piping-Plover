@@ -92,6 +92,8 @@ ul{
     font-family: 'Pangolin', cursive;
     color:#000033;
     font-size:18px;
+    position:relative;
+    z-index:10;
 }
 
 li{
