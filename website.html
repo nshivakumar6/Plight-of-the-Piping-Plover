@@ -13,6 +13,15 @@
     </head>
     <body  background="media/images/_MG_9474.jpg">
 
+        <audio hidden controls autoplay id="bgAudio">
+            <source src="media/audio/ocean-wave-2.wav" type="audio/mpeg">
+          </audio>
+          
+          <script>
+            var audio = document.getElementById("bgAudio");
+            audio.volume = 0.2;
+          </script>
+
         <ul>
             <li><a href="website.html">Home</a></li>
             <li><a href="aboutus.html">About Us</a></li>
