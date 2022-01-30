@@ -1,10 +1,12 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Fredoka One', cursive;    
+    text-shadow: 3px 4px 2px hsla(0, 0%, 0%, 0.623);
     text-align: center;
     letter-spacing: 1px;
     
 }
 h1{
+    font-family: 'Fredoka One', cursive;
     color:red;
     font-size:50px;
 }
@@ -18,16 +20,19 @@ h1{
 
 
 h2{
+    font-family: 'Pangolin', cursive;
     color:white;
     font-size:25px;
    
 }
 
 h3{
+    font-family: 'Pangolin', cursive;
     color:white;
     font-size:20px;
 }
 h4{
+    font-family: 'Pangolin', cursive;
     color:white;
     font-size:20px;
 }
@@ -48,7 +53,7 @@ h4{
     margin:8px;
     padding:8px 15px;
     cursor: pointer;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Pangolin', cursive;
     font-size:20px;
     background-color:#f8f9fa;
     border:1px solid #4b4b4b;

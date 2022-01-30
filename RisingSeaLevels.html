@@ -6,6 +6,8 @@
 <html>
 <head>
     <title>RisingSeaLevels</title>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Pangolin&family=Sigmar+One&family=Ubuntu+Condensed&display=swap" rel="stylesheet">        
+
     <link rel="stylesheet" type="text/css" href="styles.css"/>
 </head>
 <body background="media/images/popbeach.jpg">
@@ -24,10 +26,19 @@
     </div>
     
     <h2>Enjoy a well-deserved rest away from danger.</h2>
-    <div id = "populated-beach-bird">
-        <input type="image" class="populated-beach-bird" src="media/images/piping_plover_with_chicks.jpg" >
-    </div>
-    <img  width="200">
+
+    <body>
+        <script>
+            function play(){
+                var audio = document. getElementById("audio")
+                audio.play();
+            }
+        </script>
+         <img src="media/images/piping_plover_with_chicks.jpg" class="main-bird" value="PLAY" onclick="play()">
+         <audio id="audio" src="media/audio/shortplover.mp3"></audio>
+     </body>
+     <br>
+     <br>
     <div id="choices">
         <a href="Dog.html"><button class="choice">Rest</button></a>
     </div>
