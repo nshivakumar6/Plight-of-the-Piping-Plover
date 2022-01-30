@@ -58,3 +58,7 @@ h4{
 .choice:hover{
     box-shadow:0px 0px 20px #f7faf6;
 }
+
+img{
+    box-shadow:0px 0px 50px #000;
+}
