@@ -38,7 +38,16 @@ h3{
 h4{
     font-family: 'Pangolin', cursive;
     color:navy;
-    font-size:25px;
+    font-size:20px;
+}
+
+h5{
+    font-family: 'Pangolin', cursive;
+    color: #000033;
+    font-size:20px;
+    text-align: left;
+    margin-left: 25%;
+
 }
 
 #main-birds{
