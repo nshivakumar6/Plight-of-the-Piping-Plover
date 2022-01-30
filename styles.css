@@ -131,7 +131,21 @@ li a:hover {
 img{
     box-shadow:0px 0px 50px #f7faf6;
 }
+html {
+    box-sizing: border-box;
+  }
+*, *:before, *:after {
+    box-sizing: inherit;
+  }
 
 
 
 
+  body {
+    margin: 0;
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Pangolin', cursive;
+    color: #000033;
+    font-size:14px;
+  }
