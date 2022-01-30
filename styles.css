@@ -50,6 +50,13 @@ h5{
     margin-left: 25%;
 
 }
+h6{
+    font-family: 'Pangolin', cursive;
+    color: #FFFFF7;
+    font-size:20px;
+    text-align: left;
+    margin-left: 25%;
+}
 
 #main-birds{
     justify-content:center;
