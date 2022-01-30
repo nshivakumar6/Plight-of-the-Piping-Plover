@@ -5,6 +5,7 @@ body{
     text-align: center;
     letter-spacing: 1px;
     
+    
 }
 
 h1{
@@ -49,6 +50,12 @@ h4{
     box-shadow:0px 0px 25px #f7faf6;
 }
 
+.other-bird{
+    width:200px;
+    border-radius: 50%;
+    box-shadow:0px 0px 10px #f7faf6;
+
+}
 #choices{
     display:flex;
     justify-content:center;
