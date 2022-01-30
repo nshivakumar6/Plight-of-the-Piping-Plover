@@ -40,7 +40,7 @@ body {
   .about-section {
     padding: 50px;
     text-align: center;
-    background-color: #CDBCA2;
+    background-color: #C2B280;
     color: white;
   }
 
@@ -67,7 +67,7 @@ body {
     display: inline-block;
     padding: 8px;
     color: white;
-    background-color: #000;
+    background-color: #C2B280;
     text-align: center;
     cursor: pointer;
     width: 100%;
