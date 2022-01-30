@@ -1,10 +1,12 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Fredoka One', cursive;    
+    text-shadow: 3px 4px 2px hsla(0, 0%, 0%, 0.623);
     text-align: center;
     letter-spacing: 1px;
     
 }
 h1{
+    font-family: 'Ubuntu Condensed', sans-serif;
     color:red;
     font-size:50px;
 }
@@ -18,16 +20,19 @@ h1{
 
 
 h2{
+    font-family: 'Ubuntu Condensed', sans-serif;
     color:white;
     font-size:25px;
    
 }
 
 h3{
+    font-family: 'Ubuntu Condensed', sans-serif;
     color:white;
     font-size:20px;
 }
 h4{
+    font-family: 'Ubuntu Condensed', sans-serif;
     color:white;
     font-size:20px;
 }
