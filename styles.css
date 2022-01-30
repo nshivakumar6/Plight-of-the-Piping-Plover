@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Poppins&family=Raleway:wght@100&family=Roboto+Mono:wght@183;200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
 
 body{
     font-family: 'Poppins', sans-serif;
@@ -35,11 +35,17 @@ h4{
     font-size:20px;
 }
 
-#main-bird{
+#main-birds{
+    justify-content:center;
+    
+}
+.main-bird {
     width:200px;
     border-radius: 50%;
-    align-self: left;
-    box-shadow:0px 0px 20px #f7faf6;
+    box-shadow:0px 0px 10px #f7faf6;
+}
+.main-bird:hover{
+    box-shadow:0px 0px 25px #f7faf6;
 }
 
 #choices{
@@ -51,7 +57,6 @@ h4{
     margin:8px;
     padding:8px 15px;
     cursor: pointer;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size:20px;
     background-color:#f8f9fa;
     border:1px solid #4b4b4b;
