@@ -22,6 +22,9 @@ body {
       text-align: center;
      
   }
+  h1{
+      font-size:30px;
+  }
   
   .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -34,6 +37,8 @@ body {
     background-color: darkcyan;
     color: white;
   }
+
+  
   
   .container {
     padding: 0 16px;
