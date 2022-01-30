@@ -2,6 +2,9 @@ body {
     margin: 0;
     text-align: center;
     letter-spacing: 1px;
+    font-family: 'Pangolin', cursive;
+    color: #000033;
+    font-size:14px;
   }
   
   html {
@@ -68,6 +71,8 @@ body {
     text-align: center;
     cursor: pointer;
     width: 100%;
+    font-family: 'Pangolin', cursive;
+
   }
   
   .button:hover {
