@@ -72,6 +72,8 @@ body {
     cursor: pointer;
     width: 100%;
     font-family: 'Pangolin', cursive;
+    transition-duration: 0.4s;
+
 
   }
   
